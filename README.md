@@ -1,9 +1,9 @@
-# Custom-training-yolov7
+# Custom-training-yolov
 
-This guide provides instructions on how to run YOLOv7 using pretrained weights. Follow the steps below to get started.
+This guide provides instructions on how to run YOLOv7 and v8 using pretrained weights and training for custom datasets. Follow the steps below to get started.
 
-## Prerequisites
-
+# Prerequisites
+## For v7 pretrained weights
 Ensure you have the following installed on your system:
 - Python 3.7 or higher
 - Git
@@ -50,3 +50,6 @@ The output image with detected objects will be saved in the runs/detect/exp dire
 ```bash
 ls runs/detect/exp
 ```
+
+## For v8 custom training
+Run the .ipynb file on kaggle taco-dataset
