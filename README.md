@@ -1,4 +1,4 @@
-# Custom-training-yolov
+# Custom-training-yolo
 
 This guide provides instructions on how to run YOLOv7 and v8 using pretrained weights and training for custom datasets. Follow the steps below to get started.
 
